@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "745699891454",
+    "project_id": "assignment3-afbc1",
+    "storage_bucket": "assignment3-afbc1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745699891454:android:c39dc7ccb8d2603ac16daf",
+        "android_client_info": {
+          "package_name": "com.example.broadcast"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArJDa1ewfsQnd8OvQ6FxUUW_ouJM_T22g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
